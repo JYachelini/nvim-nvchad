@@ -15,7 +15,7 @@ return {
 
   {
     "nvim-treesitter/nvim-treesitter",
-    opts = { ensure_installed = { "html", "css", "bash", "typescript", "terraform" } },
+    opts = { ensure_installed = { "html", "css", "bash", "typescript", "terraform", "graphql" } },
   },
 
   {
